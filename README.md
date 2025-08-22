@@ -30,9 +30,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=VirtualDavide&theme=midnight-purple&hide_border=false" />
 
 ### 🔝 Top Contributed Repo
-<p align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=VirtualDavide&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VirtualDavide&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
