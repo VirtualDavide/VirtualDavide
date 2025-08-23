@@ -38,6 +38,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VirtualDavide/VirtualDavide/output/pacman-contribution-graph.svg">
 </picture>
 
+<img src="https://raw.githubusercontent.com/VirtualDavide/VirtualDavide/output/snake.svg" alt="Snake animation" />
+
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LongoDavide94) 
 
