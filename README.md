@@ -1,6 +1,7 @@
-# 💫 About Me:
+# Hi, I'm Davi 🍁
+## 💫 About Me:
 🐒​ I'm currently working on "Brain on Fire"<br>
-🧠​ I'm currently learning a lot of things<br>
+🧠​ I'm currently studying at the University of Salerno<br>
 💻 I'm a developer and computer science enthusiast<br>
 🌱 I'm eco-friendly<br>🦾 I'm a gymbro<br>
 🐼 I'm an animal lover<br>
