@@ -8,12 +8,26 @@
 💬​ Ask me about everything
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l.davi.sh) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davide-longo-a17b89292) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@virtualdavide) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/virtualdavide) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VirtualDavide) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidelongo2007@gmail.com) 
+<div align="center">
+  <a href="https://www.linkedin.com/in/davide-longo-a17b89292/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="davidelongo2007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/l.davi.sh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="virtualdavide" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@VirtualDavide" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/virtualdavide" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  </a>
+</div>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wsk9p0vaqbp59lhh7qw9r7wuf)
 
@@ -26,12 +40,17 @@
 # 📊 GitHub Stats:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtualDavide&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=VirtualDavide&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /><br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VirtualDavide&theme=midnight-purple&hide_border=false" /><br/><br/>
-
-![](https://github-contributor-stats.vercel.app/api?username=VirtualDavide&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VirtualDavide&theme=midnight-purple&hide_border=false" /><br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VirtualDavide&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
+
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirtualDavide/VirtualDavide/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VirtualDavide/VirtualDavide/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VirtualDavide/VirtualDavide/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LongoDavide94) 
