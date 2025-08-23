@@ -7,8 +7,6 @@
 🤝 I'm open to collaborations<br>
 💬​ Ask me about everything
 
-[![](https://visitcount.itsvg.in/api?id=VirtualDavide&icon=10&color=13)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l.davi.sh) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davide-longo-a17b89292) 
@@ -16,6 +14,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/virtualdavide) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VirtualDavide) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidelongo2007@gmail.com) 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wsk9p0vaqbp59lhh7qw9r7wuf)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
