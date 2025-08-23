@@ -1,4 +1,4 @@
-# Hi, I'm Davi 🍁
+# Hi, I'm Davi 🍁 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VirtualDavide.VirtualDavide&"  />
 🐒​ I'm currently working on "Brain on Fire"<br>
 🧠​ I'm currently studying at the University of Salerno<br>
 💻 I'm a developer and computer science enthusiast<br>
@@ -31,11 +31,16 @@
   <img src="https://github-profile-trophy.vercel.app?username=VirtualDavide&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 <br/>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirtualDavide/VirtualDavide/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VirtualDavide/VirtualDavide/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VirtualDavide/VirtualDavide/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LongoDavide94) 
