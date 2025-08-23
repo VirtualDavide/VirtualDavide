@@ -1,4 +1,6 @@
-# Hi, I'm Davi 🍁 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VirtualDavide.VirtualDavide&"  />
+# Hi, I'm Davi <div align="center">
+  <img height="120" src="https://i.pinimg.com/originals/50/f0/e6/50f0e61afdd170b8b4fe23ebe50f57af.gif"  />
+</div> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VirtualDavide.VirtualDavide&"  />
 🐒​ I'm currently working on "Brain on Fire"<br>
 🧠​ I'm currently studying at the University of Salerno<br>
 💻 I'm a developer and computer science enthusiast<br>
