@@ -1,5 +1,4 @@
 # Hi, I'm Davi 🍁
-## 💫 About Me:
 🐒​ I'm currently working on "Brain on Fire"<br>
 🧠​ I'm currently studying at the University of Salerno<br>
 💻 I'm a developer and computer science enthusiast<br>
