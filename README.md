@@ -27,8 +27,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=VirtualDavide&theme=nord&hide_border=false)<br/><br/>
 ![](https://github-contributor-stats.vercel.app/api?username=VirtualDavide&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app?username=VirtualDavide&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+## 🏆 Contributions in the Last Year
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirtualDavide/VirtualDavide/output/pacman-contribution-graph-dark.svg">
@@ -38,6 +37,3 @@
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LongoDavide94) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
