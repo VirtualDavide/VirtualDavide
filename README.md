@@ -17,8 +17,8 @@
 
 ## 🎵 What am I listening to
 <a href="https://VirtualDavide.pythonanywhere.com/link">
-  <img ?spin=true
-    src="https://VirtualDavide.pythonanywhere.com"
+  <img
+    src="https://VirtualDavide.pythonanywhere.com?theme=dark&spin=true&eq_color=81A1C1"
     alt="Current Spotify Song"
   />
 </a>
