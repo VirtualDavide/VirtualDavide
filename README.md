@@ -17,7 +17,7 @@
 
 ## Spotify
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-it/artist/7GacyaFUp0qkEJglERX9N7?si=f62-kW0eRuOVCbs2_EHFGQ)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
