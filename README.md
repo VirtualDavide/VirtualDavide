@@ -16,7 +16,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidelongo2007@gmail.com) 
 
 ## 🎵 Spotify
-[![Spotify](https://spotyreadme.vercel.app/api/spotify)](https://open.spotify.com/user/wsk9p0vaqbp59lhh7qw9r7wuf?si=12106010869e49bf)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/wsk9p0vaqbp59lhh7qw9r7wuf?si=f46e5df74bd8465d)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
