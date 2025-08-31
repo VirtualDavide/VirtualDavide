@@ -15,10 +15,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VirtualDavide) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidelongo2007@gmail.com) 
 
-## Spotify
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb)
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -31,11 +27,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=VirtualDavide&theme=nord&hide_border=false)<br/><br/>
 ![](https://github-contributor-stats.vercel.app/api?username=VirtualDavide&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-## My Open Source projects
+## 🗂️ My Open Source projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=WIKINZANE)](https://github.com/VirtualDavide/WIKINZANE)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=BrainOnFire-NEW)](https://github.com/VirtualDavide/BrainOnFire-NEW)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=Indie-Playground)](https://github.com/VirtualDavide/Indie-Playground)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=WIKINZANE&theme=nord)](https://github.com/VirtualDavide/WIKINZANE)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=BrainOnFire-NEW&theme=nord)](https://github.com/VirtualDavide/BrainOnFire-NEW)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=Indie-Playground&theme=nord)](https://github.com/VirtualDavide/Indie-Playground)
 
 ## 🏆 Contributions in the Last Year
 
