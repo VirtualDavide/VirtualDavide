@@ -16,7 +16,12 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidelongo2007@gmail.com) 
 
 ## 🎵 Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wsk9p0vaqbp59lhh7qw9r7wuf&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wsk9p0vaqbp59lhh7qw9r7wuf&redirect=true)
+<a href="https://VirtualDavide.pythonanywhere.com/link">
+  <img
+    src="https://VirtualDavide.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
