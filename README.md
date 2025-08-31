@@ -1,4 +1,4 @@
-# Hi, I'm Davi 🍁 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VirtualDavide.VirtualDavide&"  />
+# Hi, I'm Davi 🍁 <img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VirtualDavide.VirtualDavide&"  />
 🐒​ I'm currently working on "Brain on Fire"<br>
 🧠​ I'm currently studying at the University of Salerno<br>
 💻 I'm a developer and computer science enthusiast<br>
