@@ -29,9 +29,9 @@
 
 ## My Open Source projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=differ)](https://github.com/VirtualDavide/WIKINZANE)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=differ)](https://github.com/VirtualDavide/BrainOnFire-NEW)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=differ)](https://github.com/VirtualDavide/Indie-Playground)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=WIKINZANE)](https://github.com/VirtualDavide/WIKINZANE)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=BrainOnFire-NEW)](https://github.com/VirtualDavide/BrainOnFire-NEW)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=Indie-Playground)](https://github.com/VirtualDavide/Indie-Playground)
 
 ## 🏆 Contributions in the Last Year
 
