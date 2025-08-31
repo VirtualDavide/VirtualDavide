@@ -36,9 +36,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=VirtualDavide&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ## 🗂️ My Open Source projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=WIKINZANE&theme=nord)](https://github.com/VirtualDavide/WIKINZANE)&nbsp;&nbsp;&nbsp;
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=WIKINZANE&theme=nord)](https://github.com/VirtualDavide/WIKINZANE) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=BrainOnFire-NEW&theme=nord)](https://github.com/VirtualDavide/BrainOnFire-NEW)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=Indie-Playground&theme=nord)](https://github.com/VirtualDavide/Indie-Playground)&nbsp;&nbsp;&nbsp;
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VirtualDavide&repo=Indie-Playground&theme=nord)](https://github.com/VirtualDavide/Indie-Playground) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🏆 Contributions in the Last Year
 <picture>
