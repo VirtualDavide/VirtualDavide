@@ -15,9 +15,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VirtualDavide) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidelongo2007@gmail.com) 
 
-## 🎵 Spotify
+## 🎵 What am I listening to
 <a href="https://VirtualDavide.pythonanywhere.com/link">
-  <img
+  <img ?spin=true
     src="https://VirtualDavide.pythonanywhere.com"
     alt="Current Spotify Song"
   />
