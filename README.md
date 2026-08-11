@@ -1,8 +1,9 @@
 # Hi, I'm Davi 🍁 <img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DVirtualDavide&longCache=true"/> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VirtualDavide.VirtualDavide&"  />
-🐒​ I'm currently working on "Brain on Fire"<br>
+📦 I'm currently working on "Warehouse Manager"<br>
 🧠​ I'm currently studying at the University of Salerno<br>
 💻 I'm a developer and computer science enthusiast<br>
-🌱 I'm eco-friendly<br>🦾 I'm a gymbro<br>
+🌱 I'm eco-friendly<br>
+🦾 I'm a gymbro<br>
 🐼 I'm an animal lover<br>
 🤝 I'm open to collaborations<br>
 💬​ Ask me about everything
@@ -14,14 +15,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/virtualdavide) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VirtualDavide) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidelongo2007@gmail.com) 
-
-## 🎵 What am I listening to
-<a href="https://VirtualDavide.pythonanywhere.com/link">
-  <img
-    src="https://VirtualDavide.pythonanywhere.com?theme=dark&spin=true&eq_color=81A1C1"
-    alt="Current Spotify Song"
-  />
-</a>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
