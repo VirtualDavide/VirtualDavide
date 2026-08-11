@@ -3,8 +3,6 @@
 🧠​ I'm currently studying at the University of Salerno<br>
 💻 I'm a developer and computer science enthusiast<br>
 🌱 I'm eco-friendly<br>
-🦾 I'm a gymbro<br>
-🐼 I'm an animal lover<br>
 🤝 I'm open to collaborations<br>
 💬​ Ask me about everything
 
